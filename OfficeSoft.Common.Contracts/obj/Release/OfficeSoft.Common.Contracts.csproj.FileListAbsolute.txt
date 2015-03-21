@@ -1,0 +1,9 @@
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\bin\Release\OfficeSoft.Common.Contracts.dll
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\bin\Release\OfficeSoft.Common.Contracts.pdb
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Release\OfficeSoft.Common.Contracts.dll
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Release\OfficeSoft.Common.Contracts.pdb
+C:\Projects\OSOFT\OfficeSoft.Common.Contracts\bin\Release\OfficeSoft.Common.Contracts.dll
+C:\Projects\OSOFT\OfficeSoft.Common.Contracts\bin\Release\OfficeSoft.Common.Contracts.pdb
+C:\Projects\OSOFT\OfficeSoft.Common.Contracts\obj\Release\OfficeSoft.Common.Contracts.csprojResolveAssemblyReference.cache
+C:\Projects\OSOFT\OfficeSoft.Common.Contracts\obj\Release\OfficeSoft.Common.Contracts.dll
+C:\Projects\OSOFT\OfficeSoft.Common.Contracts\obj\Release\OfficeSoft.Common.Contracts.pdb

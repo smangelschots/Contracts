@@ -1,0 +1,4 @@
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\bin\Facebook\OfficeSoft.Common.Contracts.dll
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\bin\Facebook\OfficeSoft.Common.Contracts.pdb
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Facebook\OfficeSoft.Common.Contracts.dll
+C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Facebook\OfficeSoft.Common.Contracts.pdb
