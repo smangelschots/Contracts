@@ -1,10 +1,5 @@
-C:\Projects\Constructor\OfficeSoft.Common.Contracts\bin\Debug\OfficeSoft.Common.Contracts.dll
-C:\Projects\Constructor\OfficeSoft.Common.Contracts\bin\Debug\OfficeSoft.Common.Contracts.pdb
-C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.dll
-C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.pdb
-C:\Projects\Constructor\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.csprojResolveAssemblyReference.cache
-C:\Projects\OSOFT\OfficeSoft.Common.Contracts\bin\Debug\OfficeSoft.Common.Contracts.dll
-C:\Projects\OSOFT\OfficeSoft.Common.Contracts\bin\Debug\OfficeSoft.Common.Contracts.pdb
-C:\Projects\OSOFT\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.dll
-C:\Projects\OSOFT\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.pdb
-C:\Projects\OSOFT\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.csprojResolveAssemblyReference.cache
+I:\Projects\TS\OfficeSoft\OfficeSoft.Common.Contracts\bin\Debug\OfficeSoft.Common.Contracts.dll
+I:\Projects\TS\OfficeSoft\OfficeSoft.Common.Contracts\bin\Debug\OfficeSoft.Common.Contracts.pdb
+I:\Projects\TS\OfficeSoft\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.csprojResolveAssemblyReference.cache
+I:\Projects\TS\OfficeSoft\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.dll
+I:\Projects\TS\OfficeSoft\OfficeSoft.Common.Contracts\obj\Debug\OfficeSoft.Common.Contracts.pdb
